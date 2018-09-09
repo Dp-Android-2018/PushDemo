@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void sub(){
+
         int l=3;
         int k=3;
         int v=l*k;
@@ -33,5 +34,6 @@ public class MainActivity extends AppCompatActivity {
         int a=8;
         int b=4;
         int result=a/b;
+
     }
 }
