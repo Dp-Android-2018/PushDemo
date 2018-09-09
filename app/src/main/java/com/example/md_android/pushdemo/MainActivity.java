@@ -18,8 +18,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void minus(){
-        int x=2;
+        int a=9;
         int y=2;
-        int z=x-y;
+        int z=a-y;
+    }
+
+    public void sub(){
+        int c=3;
+        int d=3;
+        int m=c*d;
     }
 }
