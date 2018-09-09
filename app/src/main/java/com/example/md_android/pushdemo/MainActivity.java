@@ -24,8 +24,14 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void sub(){
-        int c=3;
-        int d=3;
-        int m=c*d;
+        int l=3;
+        int k=3;
+        int v=l*k;
+    }
+
+    public void divide(){
+        int a=8;
+        int b=4;
+        int result=a/b;
     }
 }
