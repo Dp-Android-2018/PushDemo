@@ -11,15 +11,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void sum(){
-        int x=2;
-        int y=2;
-        int z=x+y;
-    }
 
-    public void minus(){
-        int x=2;
-        int y=2;
-        int z=x-y;
-    }
 }
