@@ -41,4 +41,8 @@ public class MainActivity extends AppCompatActivity {
         int result=0;
         System.out.println("Result :"+result);
     }
+
+    public void exp(){
+        System.out.println("Exp ");
+    }
 }
