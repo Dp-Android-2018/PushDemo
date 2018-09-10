@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void print(){
+        System.out.println("123");
         int result=0;
         System.out.println("Result :"+result);
     }
