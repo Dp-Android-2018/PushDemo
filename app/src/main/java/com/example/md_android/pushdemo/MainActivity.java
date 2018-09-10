@@ -30,8 +30,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void divide(){
-        int a=8;
-        int b=4;
-        int result=a/b;
+        int x=8;
+        int y=4;
+        int result=x%y;
+    }
+
+    public void print(){
+        int result=0;
+        System.out.println("Result :"+result);
     }
 }
