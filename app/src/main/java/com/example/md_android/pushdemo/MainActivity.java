@@ -37,12 +37,16 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void print(){
-        System.out.println("123");
-        int result=0;
+        System.out.println("123456");
+        int result=1;
         System.out.println("Result :"+result);
     }
 
     public void exp(){
         System.out.println("Exp ");
+    }
+
+    public void func(){
+        System.out.println("bbbbbbbbbbbbbbbbbbbb");
     }
 }
